@@ -1,0 +1,30 @@
+cat games.csv
+./insert_data.sh
+chmod +x insert_data.sh
+./insert_data.sh
+./insert_data.sh
+psql --username=freecodecamp --dbname=postgres
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+psql --username=freecodecamp --dbname=postgres
+__vsc_prompt_cmd_original
+chmod +x queries.sh
+queries.sh
+./queries.sh
+./queries.sh
